@@ -4,7 +4,7 @@
 // 3) Keep USE_MOCK_DATA = true until the connection is tested.
 const MAGICODE_CONFIG = {
   API_URL: 'https://script.google.com/macros/s/AKfycbwM2IQLshVr0o_qSQWEKZajWtpLGD-1IVC1MaI1_2U-t5wFIlifaRoe6ckgePjL3_w_/exec', // Example: https://script.google.com/macros/s/XXXXXXXX/exec
-  USE_MOCK_DATA: true,
+  USE_MOCK_DATA: false,
   POLL_MS: 5000
 };
 
